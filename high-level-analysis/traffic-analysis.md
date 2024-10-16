@@ -4,7 +4,7 @@ Understanding traffic patterns is crucial for optimizing marketing strategies an
 
 ## 1. Traffic Overview
 During the period of 2024/09/18 to 2024/10/18, the website received **80,125 users** and **112,188 sessions**. The following chart shows the traffic trend over this period:
-![Traffic Trend](./images/traffic-trend.png)
+![Traffic Trend](../images/traffic-trend.png)
 
 ## 2. User Acquisition Sources
 | Source          | Users  | Sessions | Engagement Rate | Conversion Rate |
