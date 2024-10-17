@@ -10,16 +10,15 @@ This project focuses on analyzing user behavior, traffic sources, and conversion
 
 ## High-Level GA4 Analysis
 
-### 1. Traffic Overview
+### 1. Traffic and User Engagement
 This section analyzed the traffic data from GA4 to understand user acquisition sources and behavior.
 
-### 2. User Engagement
 Analyzing user engagement metrics such as **average session duration** and **pages per session** allowed us to understand how engaged users are with the content.
 
-### 3. Conversion Funnel Analysis
+### 2. Conversion Funnel Analysis
 Using GA4, we set up a custom funnel to analyze user drop-off points in the purchase journey.
 
-### 4. Marketing Channel Performance
+### 3. Marketing Channel Performance
 GA4 provided insights into how different marketing channels contribute to revenue and conversions.
 
 ## Recommendations
